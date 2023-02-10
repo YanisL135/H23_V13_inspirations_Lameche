@@ -3,3 +3,4 @@
 ## Oeuvre exposé à l'Arsenal d'art contemporain
 ###BIAN 2022 Mutatation
 (inserer une image de l'entrée de l'édifice)
+## (type d'exposition)
