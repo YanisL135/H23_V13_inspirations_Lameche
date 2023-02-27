@@ -17,3 +17,5 @@ et Visité le 0.3.02.2023
 - « Un lieu polyvalent où vous pourrez voir des expositions et des œuvres dans leur intégralité, mais aussi en apprendre d'avantage sur l'art contemporain numérique et ses artistes. Un musée hors du commun qui vous offre la possibilité de déambuler dans un espace virtuel 3D, au cœur d'une architecture évolutive.»
 ## Installation 
 - Oeuvre interactive ([Vidéo exemple](https://youtube.com/shorts/l7tHkAJ6aUE?feature=share))
+### Mise en espace et composantes et techniques :
+- Oeuvre installé dans un coin sombre de l'exposition
