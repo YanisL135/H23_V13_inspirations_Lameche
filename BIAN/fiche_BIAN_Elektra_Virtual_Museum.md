@@ -9,3 +9,7 @@ et Visité le 0.3.02.2023
 ![08 Entree_Pavillon_01](https://user-images.githubusercontent.com/123759550/221689958-0931ff3b-60cf-4913-9cbd-702d9cb50399.jpg)
 ## Description :
 - [Artistes](https://evm.elektramontreal.ca/fr/artistes)
+- Elektra a été fondé en 1999 et a mis 20 ans pour realisé leur musée virtuel
+## Description de l'oeuvre :
+### Cartel : 
+!(332364713_743599637158054_1580225039793268579_n](https://user-images.githubusercontent.com/123759550/221692780-ae81df90-1690-4270-bb4a-7c0accf71965.jpg)
