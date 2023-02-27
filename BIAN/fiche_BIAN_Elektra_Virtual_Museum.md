@@ -14,4 +14,6 @@ et Visité le 0.3.02.2023
 ### Cartel : 
 ![332364713_743599637158054_1580225039793268579_n](https://user-images.githubusercontent.com/123759550/221692981-7a1ed2d8-4c96-4a47-932f-ac52ff8a86cf.jpg)
 ## Description selon leur [site internet](https://evm.elektramontreal.ca/fr/a-propos):
-- « Un lieu polyvalent où vous pourrez voir des expositions et des œuvres dans leur intégralité, mais aussi en apprendre d'avantage sur l'art contemporain numérique et ses artistes. Un musée hors du commun qui vous offre la possibilité de déambuler dans un espace virtuel 3D, au cœur d'une architecture évolutive. Bienvenue au Elektra Virtual Museum»
+- « Un lieu polyvalent où vous pourrez voir des expositions et des œuvres dans leur intégralité, mais aussi en apprendre d'avantage sur l'art contemporain numérique et ses artistes. Un musée hors du commun qui vous offre la possibilité de déambuler dans un espace virtuel 3D, au cœur d'une architecture évolutive.»
+## Installation interactive
+- [Vidéo exemple](https://youtube.com/shorts/l7tHkAJ6aUE?feature=share) 
