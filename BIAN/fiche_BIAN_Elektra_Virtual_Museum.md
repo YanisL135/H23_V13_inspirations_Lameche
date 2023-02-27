@@ -17,6 +17,15 @@ et Visité le 0.3.02.2023
 - « Un lieu polyvalent où vous pourrez voir des expositions et des œuvres dans leur intégralité, mais aussi en apprendre d'avantage sur l'art contemporain numérique et ses artistes. Un musée hors du commun qui vous offre la possibilité de déambuler dans un espace virtuel 3D, au cœur d'une architecture évolutive.»
 ## Installation 
 - Oeuvre interactive ([Vidéo exemple](https://youtube.com/shorts/l7tHkAJ6aUE?feature=share))
-### Mise en espace et composantes et techniques :
+### Mise en espace :
 - Oeuvre installé dans un petit coin sombre de l'exposition (à voir dans la section [Media](https://github.com/YanisL135/H23_V13_Inspiration_Lameche/tree/main/BIAN/Media))
--
+- Disposé dans un petit espace pouvant accueillir au moin 4 personnes
+### Composantes et techniques :
+- Ordinateur assez puissant pour utiliser le logiciel 
+- Clavier 
+- Souris 
+- Tapis de souris 
+- Table
+- Grand écran 
+- Cable d'alimentation de l'ordinateur
+- Cable HDMI pour diffuser l'image sur le grand écran
