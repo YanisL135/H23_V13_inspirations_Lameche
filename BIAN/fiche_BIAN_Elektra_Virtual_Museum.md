@@ -4,4 +4,7 @@
 ![332657028_1000129484301644_1053779865814182423_n](https://user-images.githubusercontent.com/123759550/221688013-f4036754-579c-44ff-bcd8-203593f5ddc6.jpg)
 ### Exposition temporaire et intérieure
 Durée de l'exposition : 0.1.12.2022 - 05.02.2023
-Visité le 0.3.02.2023
+et Visité le 0.3.02.2023
+# Elektra Virtual Museum 
+
+[Artistes]((https://evm.elektramontreal.ca/fr/artistes)
