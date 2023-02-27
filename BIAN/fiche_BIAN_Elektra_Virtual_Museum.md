@@ -18,4 +18,5 @@ et Visité le 0.3.02.2023
 ## Installation 
 - Oeuvre interactive ([Vidéo exemple](https://youtube.com/shorts/l7tHkAJ6aUE?feature=share))
 ### Mise en espace et composantes et techniques :
-- Oeuvre installé dans un coin sombre de l'exposition
+- Oeuvre installé dans un petit coin sombre de l'exposition (à voir dans la section [Media](https://github.com/YanisL135/H23_V13_Inspiration_Lameche/tree/main/BIAN/Media))
+-
