@@ -6,5 +6,4 @@
 Durée de l'exposition : 0.1.12.2022 - 05.02.2023
 et Visité le 0.3.02.2023
 # Elektra Virtual Museum 
-
-[Artistes]((https://evm.elektramontreal.ca/fr/artistes)
+[title]([https://www.example.com](https://evm.elektramontreal.ca/fr/artistes))
