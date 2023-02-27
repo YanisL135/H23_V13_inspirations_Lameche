@@ -29,4 +29,11 @@ et Visité le 0.3.02.2023
 - Grand écran 
 - Cable d'alimentation de l'ordinateur
 - Cable HDMI pour diffuser l'image sur le grand écran
+- Trépied à roue pour tenir l'écran
 - (Pour voir des images des différentes composantes [Media](https://github.com/YanisL135/H23_V13_Inspiration_Lameche/tree/main/BIAN/Media))
+### Élément nécessaire à la mise en exposition :
+- Électricité de l'exposition
+### Experience vécu :
+Ce qui est attendu du visiteur est qu'il fasse ses propres choix de la direction ou il veut aller. La table est positionné parfaitement pour avoir une belle vu de l'écran et des oeuvres affichés. Le visiteur est debout et laisse assez de place pour interagir avec le clavier et la souris. Personnellement j'ai vécu une bonne experience et je trouve cela incroyable que l'exposition Elektra sois disponible à la maison. 
+### Ce qui m'a plus :
+Ce qui ma vraiment plus est l'idée de cette exposition, cela me motive à avoir des idées innovantes comme celle-ci pour mes futurs projets. J'aimerai faire des choses qui étaient impossible à faire il y à 20 ans, des idées révolutionnaires. Ce projet à également permis à plusieurs petits artistes à avoir plus de visibilité et j'aimerai aidé de même avec mes projets 
