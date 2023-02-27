@@ -29,3 +29,4 @@ et Visité le 0.3.02.2023
 - Grand écran 
 - Cable d'alimentation de l'ordinateur
 - Cable HDMI pour diffuser l'image sur le grand écran
+- (Pour voir des images des différentes composantes [Media](https://github.com/YanisL135/H23_V13_Inspiration_Lameche/tree/main/BIAN/Media))
